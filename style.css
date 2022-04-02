@@ -1,0 +1,28 @@
+.cuadro{
+    background:rgb(18, 18, 59);
+    color:white;
+}
+
+.task{
+    background-color: #0f0c0c;
+    overflow: auto;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.task_text{
+    font-size: 20px;
+    color:rgb(224, 222, 222);
+}
+
+.task_date{
+    margin:0;
+    font-size: 8px;
+    color: rgb(115, 115, 115);
+}
+
+.done{
+    text-decoration: line-through;
+    color:rgb(117, 117, 117) !important;
+}
